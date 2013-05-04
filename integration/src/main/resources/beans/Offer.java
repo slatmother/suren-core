@@ -10,6 +10,7 @@
 */
 package beans;
 
+import javax.naming.NamingException;
 import javax.persistence.*;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
@@ -243,5 +244,22 @@ public class Offer extends AbstractEntity implements Serializable {
 
     public void setShop_category_id(Integer shop_category_id) {
         this.shop_category_id = shop_category_id;
+    }
+
+    public Object findId() throws NamingException {
+        EntityManager em = getEntityManager();
+
+        Query query = em.createNamedQuery("Offer.findId")
+                .setParameter("shop_offer_id", getShop_offer_id())
+                .setParameter("shop_id", getShop().getId());
+
+        Object ob = 0;
+        try {
+            ob = query.getSingleResult();
+        } catch (NoResultException ex) {
+            log.warn("Cannot find object with such parameters");
+        }
+
+        return ob;
     }
 }

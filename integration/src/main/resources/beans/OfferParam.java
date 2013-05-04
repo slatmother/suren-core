@@ -10,6 +10,7 @@
 */
 package beans;
 
+import javax.naming.NamingException;
 import javax.persistence.*;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlTransient;
@@ -88,5 +89,22 @@ public class OfferParam extends AbstractEntity {
 
     public void setParam_value(String param_value) {
         this.param_value = param_value;
+    }
+
+    public Object findId() throws NamingException {
+        EntityManager em = getEntityManager();
+
+        Query query = em.createNamedQuery("OfferParam.findId")
+                .setParameter("param_name", getParam_name())
+                .setParameter("offer_id", getOffer().getId());
+        Object ob = 0;
+
+        try {
+            ob = query.getSingleResult();
+        } catch (NoResultException ex) {
+            log.warn("Cannot find object with such parameters");
+        }
+
+        return ob;
     }
 }

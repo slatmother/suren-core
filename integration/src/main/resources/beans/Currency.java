@@ -10,6 +10,7 @@
 */
 package beans;
 
+import javax.naming.NamingException;
 import javax.persistence.*;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlTransient;
@@ -87,5 +88,22 @@ public class Currency extends AbstractEntity implements Serializable {
 
     public void setCurrency_rate(int currency_rate) {
         this.currency_rate = currency_rate;
+    }
+
+    public Object findId() throws NamingException {
+        EntityManager em = getEntityManager();
+
+        Query query = em.createNamedQuery("Currency.findId")
+                .setParameter("shop_currency_id", getShop_currency_id())
+                .setParameter("shop_id", getShop().getId());
+        Object ob = 0;
+
+        try {
+            ob = query.getSingleResult();
+        } catch (NoResultException ex) {
+            log.warn("Cannot find object with such parameters");
+        }
+
+        return ob;
     }
 }
