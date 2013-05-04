@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="suren_exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/suren_exploded</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="suren" />
+    </root>
+  </artifact>
+</component>

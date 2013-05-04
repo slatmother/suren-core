@@ -1,0 +1,61 @@
+20:28:34,296 DEBUG [main] parser.OzonXMLParserTest - -----------------------------START DEBUGGING-----------------------------
+20:28:34,423 DEBUG [main] parser.OzonXMLParserTest - Catalog beans.YmlCatalog@1be8711
+20:28:34,423 DEBUG [main] parser.OzonXMLParserTest - Catalog date 2013-02-14 01:52
+20:28:34,424 DEBUG [main] parser.OzonXMLParserTest - Catalog shop beans.Shop@14c28db
+20:28:34,424 DEBUG [main] parser.OzonXMLParserTest - Shop beans.Shop@14c28db
+20:28:34,424 DEBUG [main] parser.OzonXMLParserTest - Shop shop_name OZON.ru
+20:28:34,424 DEBUG [main] parser.OzonXMLParserTest - Shop shop_url http://www.ozon.ru/
+20:28:34,425 DEBUG [main] parser.OzonXMLParserTest - Shop shop_company ООО "Интернет Решения"
+20:28:34,425 DEBUG [main] parser.OzonXMLParserTest - #########-LIST OF CURRENCIES-#########
+20:28:34,425 DEBUG [main] parser.OzonXMLParserTest - Currency beans.Currency@10e687b
+20:28:34,426 DEBUG [main] parser.OzonXMLParserTest - Currency id RUR
+20:28:34,426 DEBUG [main] parser.OzonXMLParserTest - Currency rate 1
+20:28:34,426 DEBUG [main] parser.OzonXMLParserTest - #########- END OF LIST -#########
+20:28:34,426 DEBUG [main] parser.OzonXMLParserTest - #########- LIST OF CATEGORIES -#########
+20:28:34,426 DEBUG [main] parser.OzonXMLParserTest - Category beans.Category@73f0d8
+20:28:34,427 DEBUG [main] parser.OzonXMLParserTest - Category id 1133676
+20:28:34,427 DEBUG [main] parser.OzonXMLParserTest - Category shop_name Телефоны
+20:28:34,427 DEBUG [main] parser.OzonXMLParserTest - Category beans.Category@1c8fb4b
+20:28:34,428 DEBUG [main] parser.OzonXMLParserTest - Category id 1133677
+20:28:34,428 DEBUG [main] parser.OzonXMLParserTest - Category shop_name Мобильные телефоны
+20:28:34,429 DEBUG [main] parser.OzonXMLParserTest - #########- END OF LIST -#########
+20:28:34,429 DEBUG [main] parser.OzonXMLParserTest - #########- LIST OF OFFERS -#########
+20:28:34,429 DEBUG [main] parser.OzonXMLParserTest - Offer beans.Offer@1e91a4d
+20:28:34,429 DEBUG [main] parser.OzonXMLParserTest - Offer id null
+20:28:34,429 DEBUG [main] parser.OzonXMLParserTest - Offer descriptionМобильный телефон Samsung E1150 прост и практичен — начиная с тонкого раскладного корпуса,
+                    который великолепно смотрится на ладони, и заканчивая потрясающим трехмерным пользовательским
+                    интерфейсом. Кроме того, модель оснащена набором функций безопасности. А благодаря аккумулятору
+                    емкостью 800мАч Вы сможете разговаривать по телефону еще дольше! Классический дизайн Благодаря
+                    компактным размерам и плавным очертаниям корпуса этот раскладной телефон отлично лежит в руке при
+                    разговоре и без проблем помещается в кармане или сумочке. Простой, но в то же время современный и
+                    изысканный дизайн подарит Вам настоящее эстетическое удовольствие от использования этого телефона.
+                    Удобный пользовательский интерфейс Трехмерные значки делают пользовательский интерфейс более ярким и
+                    привлекательным. Кроме того, внешний вид можно настроить в соответствии со своими предпочтениями.
+                    Длительное время работы Неважно, провели Вы целый день в офисе или...
+                
+20:28:34,434 DEBUG [main] parser.OzonXMLParserTest - #########- LIST OF OFFER'S PARAMS -#########
+20:28:34,434 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Диапазон частот
+20:28:34,434 DEBUG [main] parser.OzonXMLParserTest - Offer params value GSM 900/1800
+20:28:34,434 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Корпус
+20:28:34,434 DEBUG [main] parser.OzonXMLParserTest - Offer params value Раскладной
+20:28:34,435 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Дисплей
+20:28:34,435 DEBUG [main] parser.OzonXMLParserTest - Offer params value 1.43", CSTN, 128x128 пикселей, встроенные заставки экрана
+20:28:34,435 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Звук
+20:28:34,435 DEBUG [main] parser.OzonXMLParserTest - Offer params value 40-тональная полифония
+20:28:34,435 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Аккумулятор
+20:28:34,436 DEBUG [main] parser.OzonXMLParserTest - Offer params value 800 мАч
+20:28:34,436 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Время разговора/ожидания
+20:28:34,436 DEBUG [main] parser.OzonXMLParserTest - Offer params value До 510 минут / До 740 часов
+20:28:34,436 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Записная книжка
+20:28:34,436 DEBUG [main] parser.OzonXMLParserTest - Offer params value 500 контактов
+20:28:34,437 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Дополнительные функции SMS
+20:28:34,437 DEBUG [main] parser.OzonXMLParserTest - Offer params value SMS, T9
+20:28:34,437 DEBUG [main] parser.OzonXMLParserTest - Offer params shop_name Дополнительная информация
+20:28:34,437 DEBUG [main] parser.OzonXMLParserTest - Offer params value FM-радио Календарь Часы Будильник Конвертер валют и мер
+                    Калькулятор Заметки Секундомер Таймер Громкая связь Конферец-связь Функция Mobile Tracker
+                    (оповещение о смене SIM-карты)
+                
+20:28:34,438 DEBUG [main] parser.OzonXMLParserTest - #########- END OF PARAM'S LIST -#########
+20:28:34,438 DEBUG [main] parser.OzonXMLParserTest - #########- END OF LIST -#########
+20:28:34,439 DEBUG [main] parser.OzonXMLParserTest - -----------------------------END DEBUGGING-----------------------------
+

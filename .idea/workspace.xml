@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8a59207-a83c-4514-af78-d3a9b8a41f78" name="Default" comment="" />
+    <ignored path="SurenServer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364817475948" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364570083170" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364566201695" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364569066148" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364571000485" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_10_0_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364566016596" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_9.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565808859" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_9.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565808859" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565808859" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565835607" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565835607" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565835607" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_16.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565835607" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565835607" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/artifacts/webapp_war_exploded.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364739745795" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/JPA_2_0_2_0.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364566699251" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/ant.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364565941602" ignored="false" />
+    <file path="/Dummy.txt" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367671965169" ignored="false" />
+    <file path="$PROJECT_DIR$/../Suren/.idea/workspace.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364729539882" ignored="false" />
+    <file path="/persistence.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366362816272" ignored="false" />
+    <file path="/fragment.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367334982161" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/validation.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364569659575" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364911002879" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/com_sun_jersey_jersey_bundle_1_11_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364570601953" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_17.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364738515825" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_17.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364738515825" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364738515825" ignored="false" />
+    <file path="/web.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364570968737" ignored="false" />
+    <file path="/pom.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364740014511" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_bundle_1_11_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364739395676" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364739395676" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jms_1_1_spec_1_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_3.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_serp_serp_1_13_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jpa_2_0_spec_1_0.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_openjpa_openjpa_2_0_0.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577016397" ignored="false" />
+    <file path="/StatisticDB" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366296709963" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/dataSources.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364577447686" ignored="false" />
+    <file path="/Shop.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367670764107" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/sqlDataSources.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364578035877" ignored="false" />
+    <file path="/StatisticsServer.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367331579572" ignored="false" />
+    <file path="/test.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366648646352" ignored="false" />
+    <file path="/StatisticsServerTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366366503159" ignored="false" />
+    <file path="/StatiticServerXmlTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367328767647" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/org_apache_openjpa_openjpa_xmlstore_2_2_0.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364734274740" ignored="false" />
+    <file path="/ShopUpdateProcessorTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365935325809" ignored="false" />
+    <file path="/log4j.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367328305060" ignored="false" />
+    <file path="/a.dummy" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367240824759" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/compiler.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/workspace.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364817475948" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/encodings.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736230921" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/uiDesigner.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736230921" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/scopes/scope_settings.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736230921" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/modules.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736231508" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/misc.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/copyright/profiles_settings.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736230921" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/vcs.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736230921" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/pom.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736462319" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/src/test/java/service/StatisticsServerTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736637011" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/src/test/java/service/StatiticServerXmlTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736424029" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__log4j_log4j_1_2_9.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736450047" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736467379" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/ant.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736467379" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/.idea/libraries/Maven__junit_junit_4_9.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364736467379" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/src/test/resources/test.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364739522830" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/logs/error.html" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364737713482" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__jersey_server_jersey_server_1_17.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364738211430" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/artifacts/webapp_war_exploded2.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364897505018" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/excludeFromValidation.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364919702842" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__postgresql_openjpa_2_0_0.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364740027256" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__postgresql_postgresql_9_1_901_jdbc3.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364740117239" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_common/src/ru/iteco/commonlib/type/IDdtIssueInfo.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364816791251" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/weboffice/pages/additional/issue_list.jsp" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365005023926" ignored="false" />
+    <file path="/issue_list.jsp" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364818007409" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/artifacts/suren.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364919197296" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_1_10_Final.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_GA.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_10_Final.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912510977" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_3_1_Final.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912600864" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1364912600864" ignored="false" />
+    <file path="/ShopUpdateProcessor.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366115020418" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/wt66/WebContent/webcomponent/admin/user/userattributes.jsp" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365003246303" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_base/src/ru/iteco/cs/bof/impl/tbo/DdtEmployee.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365005295260" ignored="false" />
+    <file path="/DdtEmployee.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365005241701" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/web/formext/control/docbase/ReadOnlyDocbaseAttributeValue.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365007755242" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_baseweb/webapp/baseweb/config/directory/property/ddt_employee_attributes.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442841" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/webcomponent/library/selectsingleattributevalue/SelectUserAttributeValue.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365010261225" ignored="false" />
+    <file path="/ddt_employee_attributes.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365007564151" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/web/formext/control/docbase/DocbaseAttributeValue.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365008126472" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/web/formext/control/docbase/DocbaseAttribute.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365008364657" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/webcomponent/library/locator/UserOrGroupLocator.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365009431971" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/webcomponent/library/locator/ObjectLocator.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365009599423" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/com/documentum/web/test/PreferenceRestorer.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365009738458" ignored="false" />
+    <file path="/a.regexp" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365012681666" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_common/src/ru/iteco/commonlib/helper/ExportToABBYHelper.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365061759315" ignored="false" />
+    <file path="/ExportToABBYHelper.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365061758008" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/weboffice/config/menubar/menu_component.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641469310" ignored="false" />
+    <file path="/menu_component.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365062528956" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/weboffice/config/document/action/ddt_registered_actions.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365072363172" ignored="false" />
+    <file path="/ddt_registered_actions.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365072363172" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/src/ru/iteco/weboffice/action/CancelRecognitionAction.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365166746132" ignored="false" />
+    <file path="/CancelRecognitionAction.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365166742827" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/src/test/java/testjava/Test.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365063698273" ignored="false" />
+    <file path="/Test.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365063698273" ignored="false" />
+    <file path="/RecognitionMethod.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365166198447" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_mtd/src/ru/iteco/cs/method/job/RecognitionMethod.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365166199679" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/weboffice/config/action/ddt_issue_info.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365156661061" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/weboffice/strings/ru/iteco/weboffice/menubar/MenuBarNlsProp_ru_RU.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365163946240" ignored="false" />
+    <file path="/MenuBarNlsProp_ru_RU.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365163946240" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/webapp/weboffice/strings/ru/iteco/weboffice/menubar/MenuBarNlsProp_en_US.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365163990365" ignored="false" />
+    <file path="/MenuBarNlsProp_en_US.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1365163990365" ignored="false" />
+    <file path="/Offer.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335148644" ignored="false" />
+    <file path="/Category.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367671274523" ignored="false" />
+    <file path="/OzonXMLParserTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366296672313" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/intellijad/Documentum_DBUIO/org/apache/commons/configuration/AbstractConfiguration.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366008009167" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_core/src/ru/iteco/integration/DictionaryManager.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366010489484" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/Documentum_DBUIO.iws" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366211374323" ignored="false" />
+    <file path="/AbstractEntity.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367670970083" ignored="false" />
+    <file path="/OfferParam.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335395323" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/wt66/build.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366112655784" ignored="false" />
+    <file path="/build.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366112654106" ignored="false" />
+    <file path="$PROJECT_DIR$/../JUnitTestsOnly/logs/stat_server.log" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366121692957" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_dbuio/src/ru/iteco/integration/dbuio/M11Operation08Dictionary.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366191361070" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_dbuio/config/dbuio_sap_field_mapping.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366198377911" ignored="false" />
+    <file path="/dbuio_sap_field_mapping.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366198243664" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_dbuio/src/ru/iteco/integration/dbuio/AbstractSAPDictionary.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366198186478" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_dbuio/test/ru/iteco/test/SAPFieldMappingTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366199539454" ignored="false" />
+    <file path="/SAPFieldMappingTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366199538333" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_dbuio/test/ru/iteco/test/test.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366199259678" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/iteco_mtd_dbuio/src/ru/iteco/cs/method/dbuio/workflow/XlsFileParser.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366208234047" ignored="false" />
+    <file path="/XlsFileParser.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366207999180" ignored="false" />
+    <file path="/Currency.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335264870" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_baseweb/webapp/baseweb/config/document/action/ddt_document_actions.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442841" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_baseweb/webapp/baseweb/config/action/dm_sysobject_actions.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442841" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_baseweb/webapp/baseweb/config/document/action/ddt_registered_actions.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442842" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_base/dar/default.dardef" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442842" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_base/src/ru/iteco/cs/bof/interfaces/tbo/IDdtDocument.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442842" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_baseweb/webapp/baseweb/config/folder/action/ddt_folder.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442842" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/iteco_dt/dar/iteco_dt.dardef" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366641442842" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/src/ru/iteco/dbuio/ws/AbbyyDocumentumService.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366643664292" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/src/ru/iteco/dbuio/ws/Configuration.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366643774441" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/config/ws.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366643787200" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/src/ru/iteco/dbuio/ws/SenderToDocumentum.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366643884746" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/resources/ru/iteco/dbuio/abbyydocumentumservice/ObjectFactory.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366644247668" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/resources/wsdl/ru.iteco.dbuio.abbyydocumentumservice/AbbyyDocumentumService.wsdl" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366653523358" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/resources/ru/iteco/dbuio/abbyydocumentumservice/AbbyyDocumentumServicePort.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366644247668" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/resources/wsdl/ru.iteco.dbuio.abbyydocumentumservice/AbbyyDocumentumService_schema1.xsd" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366644247668" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/resources/wsdl/ru.iteco.dbuio.abbyydocumentumservice/AbbyyDocumentumService_schema2.xsd" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366644247668" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/resources/ru/iteco/dbuio/abbyydocumentumservice/AbbyyDocumentumServiceWebService.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366644247668" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/iteco_mtd_core/test/src/ru/iteco/test/cases/DictionaryManagerTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366648715536" ignored="false" />
+    <file path="/DictionaryManagerTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366648562170" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/iteco_mtd_core/test/src/test.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366648679298" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_core/test/ru/iteco/test/cases/DictionaryManagerTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366649547486" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_core/test/test.properties" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366649961378" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/integration_dbuio/test/ru/iteco/test/DictionaryManagerTest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1366650167899" ignored="false" />
+    <file path="/ShopDataLoader.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367239601724" ignored="false" />
+    <file path="/ShopDataProcessor.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367670940067" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_dbuio/trunk/d-Source/documentum/abbyy_documentum_ws_build/AbbyyDocumentumService/buildWS.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367245763012" ignored="false" />
+    <file path="$PROJECT_DIR$/../nn_archive_new/trunk/d-Source/integration_archive/src/ru/iteco/scanner/TypedBarcodedDocumentDictionary.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367310701018" ignored="false" />
+    <file path="/TableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367326667445" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/Documentum.iws" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367672000073" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/AssignmentAttributes.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321555687" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/WEB-INF/web.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572532" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/weboffice/config/directory/action/ddt_assignment_action.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/WEB-INF/tlds/ds_mtk_form.tld" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/weboffice/config/document/additional/related_component.xml" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/weboffice/pages/document/additional/assignment.jsp" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/weboffice/pages/directory/property/ddt_assignment_attributes.jsp" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtApproveRoute.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtApproveStage.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtAssignment.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtBudgetItemCode.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtCommentRelation.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/AssignmentRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtContact.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/BaseOperations.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/BusinessRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtContract.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/CommonObject.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/ContentRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/ContractRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtOutcoming.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/IncomingRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtPaymentRequest.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/InternalDocRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtPermitRelation.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtPreReviewRelation.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtProtocol.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtRegistered.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtDeputies.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtRegisterTransfer.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtRegJournal.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtDocTransfer.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtSignatureRoute.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtSignatureStage.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtDocument.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtExecutionReport.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtUserList.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtExtendedCorrespondent.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtWorkingCard.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtIncoming.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtInternalApproveStage.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtInternalDoc.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DmRelation.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DmSysobject.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtMask.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DocumentTemplateRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtMethodResult.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtMultipleContRelation.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/IExBusinessRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/DdtOrd.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/PaymentRequestRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/ObjectFactory.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/ProtocolRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/OrdRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/RegJournalRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/RoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_common/src/ru/iteco/mtk/commonlib/orm/OutcomingRoleModel.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572595" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/IncomingAttributes.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/ReviewerDataHandler.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/AssignmentProperties.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/UserListProperties.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/BudgetItemCodeProperties.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/DeputiesProperties.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/DocTransferAttributes.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/webapp/src/ru/iteco/mtk/weboffice/directory/property/DocTransferList.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321572958" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_base/src/ru/iteco/core/util/DateUtils.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321577799" ignored="false" />
+    <file path="$PROJECT_DIR$/../osk/d-Source/iteco_baseweb/src/ru/iteco/wdk/control/docbase/DocbaseAttributeValueTag.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367321615787" ignored="false" />
+    <file path="/AbstractTableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367327641848" ignored="false" />
+    <file path="/ShopTableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367329074313" ignored="false" />
+    <file path="/ShopYmlParser.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367329632900" ignored="false" />
+    <file path="/OffersTableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335611620" ignored="false" />
+    <file path="/OfferParamsTableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335700284" ignored="false" />
+    <file path="/CurrenciesTableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335765338" ignored="false" />
+    <file path="/CategoriesTableDataGateway.java" changelist="b8a59207-a83c-4514-af78-d3a9b8a41f78" time="1367335822809" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java" line="36" class="service.StatiticServerXmlTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java" line="40" class="service.StatiticServerXmlTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java" line="47" class="service.StatiticServerXmlTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" line="37" class="server.StatisticsServer" package="server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" line="30" class="server.StatisticsServer" package="server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java" line="50" class="service.StatiticServerXmlTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java" line="51" class="service.StatiticServerXmlTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatisticsServerJSONTest.java" line="52" class="service.StatisticsServerJSONTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatisticsServerJSONTest.java" line="53" class="service.StatisticsServerJSONTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/test/java/service/StatisticsServerJSONTest.java" line="55" class="service.StatisticsServerJSONTest" package="service">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="jar://$MAVEN_REPOSITORY$/org/apache/openjpa/openjpa/2.0.0/openjpa-2.0.0-sources.jar!/org/apache/openjpa/conf/OpenJPAConfigurationImpl.java" line="365" class="org.apache.openjpa.conf.OpenJPAConfigurationImpl" package="org.apache.openjpa.conf">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" line="72" class="server.StatisticsServer" package="server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/integration/src/main/java/dao/ShopDataProcessor.java" line="0" class="ShopDataProcessor.java" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" line="64" class="server.StatisticsServer" package="server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" line="41" class="server.StatisticsServer" package="server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/integration/src/main/java/gateways/ShopsTableDataGateway.java" line="52" class="gateways.ShopsTableDataGateway" package="gateways">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" line="66" class="server.StatisticsServer" package="server">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SurenServer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Offer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Offer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="42" selection-start="970" selection-end="977" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Currency.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Currency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="68" selection-start="817" selection-end="833" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="persistence.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/META-INF/persistence.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="14" selection-start="1991" selection-end="1991" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OfferParam.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/OfferParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="48" selection-start="895" selection-end="903" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OzonXMLParserTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/test/java/parser/OzonXMLParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="68" column="42" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="127" column="30" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.82885903">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatisticsServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="9" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatisticDataBean.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/main/resources/entity/StatisticDataBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YmlCatalog.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/YmlCatalog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="30" selection-start="900" selection-end="900" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IYMLParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/parser/IYMLParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="21" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatisticsServerJSONTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/test/java/service/StatisticsServerJSONTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="21" selection-start="1855" selection-end="1855" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StatiticServerXmlTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="101" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopYmlParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/parser/ShopYmlParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="37" selection-start="837" selection-end="837" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/test/resources/test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="29" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopDataProcessor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/dao/ShopDataProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="38" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OffersTableDataGateway.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/OffersTableDataGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="57" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoriesTableDataGateway.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/CategoriesTableDataGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="17" selection-start="856" selection-end="1609" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrenciesTableDataGateway.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/CurrenciesTableDataGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="40" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OfferParamsTableDataGateway.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/OfferParamsTableDataGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="69" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shop.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Shop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="168" column="21" selection-start="4708" selection-end="4773" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopsTableDataGateway.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/ShopsTableDataGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="23" selection-start="846" selection-end="1564" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractTableDataGateway.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/AbstractTableDataGateway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="22" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractEntity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/AbstractEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="61" selection-start="1369" selection-end="1369" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnectionTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/test/java/other/DBConnectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="0" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShopUpdateProcessorTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/integration/src/test/java/processor/ShopUpdateProcessorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="7" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4j.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webapp/src/test/resources/log4j.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="686" selection-end="686" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlExceptionHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.1.10.Final/hibernate-core-4.1.10.Final-sources.jar!/org/hibernate/engine/jdbc/spi/SqlExceptionHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="144" column="77" selection-start="5359" selection-end="5359" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/integration/src/main/java/parser/ShopYmlParser.java" />
+        <option value="$PROJECT_DIR$/webapp/src/test/java/service/StatiticServerXmlTest.java" />
+        <option value="$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java" />
+        <option value="$PROJECT_DIR$/webapp/src/test/resources/test.properties" />
+        <option value="$PROJECT_DIR$/integration/src/main/resources/beans/Offer.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/java/gateways/ShopsTableDataGateway.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/resources/beans/Currency.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/resources/beans/OfferParam.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/java/gateways/OffersTableDataGateway.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/java/gateways/OfferParamsTableDataGateway.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/java/gateways/CurrenciesTableDataGateway.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/java/gateways/CategoriesTableDataGateway.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/resources/beans/Shop.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/java/dao/ShopDataProcessor.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/resources/beans/AbstractEntity.java" />
+        <option value="$PROJECT_DIR$/integration/src/main/resources/beans/Category.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\SOFT_for_projects\apache-maven-3.0.5" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.6" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="Hren" pattern="" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="886" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Annotations verifyingGroovy</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Assignment issues</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>BPMN 2.0 configuration errors</id>
+          </State>
+          <State>
+            <id>Bean Validation issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issues</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metrics</id>
+          </State>
+          <State>
+            <id>Class structure</id>
+          </State>
+          <State>
+            <id>Cloning issues</id>
+          </State>
+          <State>
+            <id>Code maturity issues</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issues</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Compiler issues</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issues</id>
+          </State>
+          <State>
+            <id>Control FlowGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issues</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issues</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Declaration redundancyGroovy</id>
+          </State>
+          <State>
+            <id>DeclarationGroovy</id>
+          </State>
+          <State>
+            <id>Dependency issues</id>
+          </State>
+          <State>
+            <id>Encapsulation issues</id>
+          </State>
+          <State>
+            <id>Error handling</id>
+          </State>
+          <State>
+            <id>Error handlingGroovy</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Facelet format detection</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>Finalization issues</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GPath inspectionsGroovy</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice Inspections</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
+            <id>IDEA Platform Inspections</id>
+          </State>
+          <State>
+            <id>Imports</id>
+          </State>
+          <State>
+            <id>Inheritance issues</id>
+          </State>
+          <State>
+            <id>Initialization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME Plugin</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>JUnit issues</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>JavaBeans issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issues</id>
+          </State>
+          <State>
+            <id>Jpdl Model</id>
+          </State>
+          <State>
+            <id>LESS</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>Logging issues</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Memory issues</id>
+          </State>
+          <State>
+            <id>Method MetricsGroovy</id>
+          </State>
+          <State>
+            <id>Method metrics</id>
+          </State>
+          <State>
+            <id>Modularization issues</id>
+          </State>
+          <State>
+            <id>Naming ConventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventions</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issues</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Packaging issues</id>
+          </State>
+          <State>
+            <id>Pages Navigation Model</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>Performance issues</id>
+          </State>
+          <State>
+            <id>Play</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugs</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>SASS/SCSS</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issues</id>
+          </State>
+          <State>
+            <id>Serialization issues</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring Model</id>
+          </State>
+          <State>
+            <id>Spring DataSpring Model</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring Model</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring Model</id>
+          </State>
+          <State>
+            <id>Spring Model</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring Model</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring Model</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring Model</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring Model</id>
+          </State>
+          <State>
+            <id>Struts</id>
+          </State>
+          <State>
+            <id>Struts 1Struts</id>
+          </State>
+          <State>
+            <id>Struts 2Struts</id>
+          </State>
+          <State>
+            <id>StyleGroovy</id>
+          </State>
+          <State>
+            <id>Tapestry inspections</id>
+          </State>
+          <State>
+            <id>TestNG</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructs</id>
+          </State>
+          <State>
+            <id>Visibility issues</id>
+          </State>
+          <State>
+            <id>WSDL issues</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+          <State>
+            <id>toString() issues</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parser" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="META-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gateways" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SurenServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Hren" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="integration">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="common">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="webapp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="integration">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="common">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/integration/src/test/java/updater" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.27918288" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="Downloaded.Files.Path" value="D:\SVNProjects\SurenServer\integration\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gateways" />
+      <recent name="core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SVNProjects\SurenServer\common\config" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="entity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="updater" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StatiticServerXmlTest">
+    <configuration default="false" name="StatiticServerXmlTest.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="webapp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.StatiticServerXmlTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StatisticsServerJSONTest.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="webapp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.StatisticsServerJSONTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ShopUpdateProcessorTest.test" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="integration" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="updater" />
+      <option name="MAIN_CLASS_NAME" value="updater.ShopUpdateProcessorTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OzonXMLParserTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="integration" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="parser" />
+      <option name="MAIN_CLASS_NAME" value="parser.OzonXMLParserTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StatiticServerXmlTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="webapp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.StatiticServerXmlTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Remote">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote">
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="stagingRemotePath" value="" />
+          <option name="transportHostId" />
+          <option name="transportStagingTarget">
+            <TransportTarget>
+              <option name="id" value="854dd872-9ffc-40aa-b15f-f9b83229b243" />
+            </TransportTarget>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="suren_jboss" type="JBossConfiguration" factoryName="Remote" APPLICATION_SERVER_NAME="JBoss 6.1.0.Final">
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="password" value="admin" />
+          <option name="stagingRemotePath" value="" />
+          <option name="transportHostId" />
+          <option name="transportStagingTarget">
+            <TransportTarget>
+              <option name="id" value="bc8af666-4523-4d41-90a5-7b92c51df029" />
+            </TransportTarget>
+          </option>
+          <option name="username" value="admin" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="jboss_suren_simple_remote" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="127.0.0.1" />
+      <option name="PORT" value="8787" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TomEE 7.0" type="TomeeConfiguration" factoryName="Remote" APPLICATION_SERVER_NAME="TomEE 7.0">
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="stagingRemotePath" value="" />
+          <option name="transportHostId" />
+          <option name="transportStagingTarget">
+            <TransportTarget>
+              <option name="id" value="854dd872-9ffc-40aa-b15f-f9b83229b243" />
+            </TransportTarget>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 6.0.35" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" APPLICATION_SERVER_NAME="Tomcat 6.0.35">
+      <option name="LOCAL" value="false" />
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="stagingRemotePath" value="" />
+          <option name="transportHostId" />
+          <option name="transportStagingTarget">
+            <TransportTarget>
+              <option name="id" value="7a95e1a4-b96b-447b-a9c8-c8f2f37a8513" />
+            </TransportTarget>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="JBoss Server.suren_jboss" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.jboss_suren_simple_remote" />
+      <item index="2" class="java.lang.String" itemvalue="TomEE Server.TomEE 7.0" />
+      <item index="3" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 6.0.35" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StatiticServerXmlTest.test" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.StatisticsServerJSONTest.test" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.ShopUpdateProcessorTest.test" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.OzonXMLParserTest" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.StatiticServerXmlTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StatiticServerXmlTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StatiticServerXmlTest.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.OzonXMLParserTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ShopUpdateProcessorTest.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StatisticsServerJSONTest.test" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8a59207-a83c-4514-af78-d3a9b8a41f78" name="Default" comment="" />
+      <created>1364565728873</created>
+      <updated>1364565728873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38842976" sideWeight="0.5531609" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20803443" sideWeight="0.58126724" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1743185" sideWeight="0.19394773" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.223099" sideWeight="0.7028886" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19870876" sideWeight="0.62534434" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41127923" sideWeight="0.58536583" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2733142" sideWeight="0.37860084" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4187328" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5089409" sideWeight="0.4978479" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16212338" sideWeight="0.6280992" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29889807" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20731707" sideWeight="0.1969697" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2733142" sideWeight="0.3717421" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39928058" sideWeight="0.5399449" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15925394" sideWeight="0.70013756" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287483" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27618363" sideWeight="0.49105915" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5089409" sideWeight="0.49713057" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19368723" sideWeight="0.6707989" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30536452" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20659971" sideWeight="0.6942149" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.68363136" sideWeight="0.32805756" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44352618" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29711142" sideWeight="0.45905173" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287483" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39944905" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webapp/src/main/java/server/StatisticsServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="9" selection-start="2218" selection-end="2218" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Offer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="42" selection-start="970" selection-end="977" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/OfferParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="48" selection-start="895" selection-end="903" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Currency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="68" selection-start="817" selection-end="833" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/src/test/resources/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="29" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/OfferParamsTableDataGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="69" selection-start="1154" selection-end="1154" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/OffersTableDataGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="57" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/AbstractTableDataGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="22" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/CurrenciesTableDataGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="40" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/ShopsTableDataGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="23" selection-start="846" selection-end="1564" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/dao/ShopDataProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="38" selection-start="1784" selection-end="1784" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/AbstractEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="61" selection-start="1369" selection-end="1369" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/java/gateways/CategoriesTableDataGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="17" selection-start="856" selection-end="1609" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="21" selection-start="4708" selection-end="4773" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.1.10.Final/hibernate-core-4.1.10.Final-sources.jar!/org/hibernate/engine/jdbc/spi/SqlExceptionHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="77" selection-start="5359" selection-end="5359" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/integration/src/main/resources/beans/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="30" selection-start="3228" selection-end="3228" vertical-scroll-proportion="0.82885903">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>suren.war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27918288" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA (integration)|JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4455253" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>itext</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4455253" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31023785" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>webapp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27918288" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4455253" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Hren</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.18903595" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="Hren" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
