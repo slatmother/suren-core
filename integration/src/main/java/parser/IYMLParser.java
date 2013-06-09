@@ -10,7 +10,7 @@
 */
 package parser;
 
-import beans.YmlCatalog;
+import entity.YmlCatalog;
 
 import java.io.File;
 import java.io.InputStream;

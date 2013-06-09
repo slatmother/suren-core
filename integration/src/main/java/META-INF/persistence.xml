@@ -4,18 +4,12 @@
     <persistence-unit name="YMLCatalog" transaction-type="JTA">
         <provider>org.hibernate.ejb.HibernatePersistence</provider>
         <jta-data-source>java:/DefaultDS</jta-data-source>
-        <class>beans.Shop</class>
-        <class>beans.Category</class>
-        <class>beans.Currency</class>
-        <class>beans.Offer</class>
-        <class>beans.OfferParam</class>
+        <class>entity.Shop</class>
+        <class>entity.Category</class>
+        <class>entity.Currency</class>
+        <class>entity.Offer</class>
+        <class>entity.OfferParam</class>
         <properties>
-            <!--<property name="jboss.as.jpa.providerModule" value="org.apache.openjpa" />-->
-            <!--<property name="openjpa.ConnectionURL" value="jdbc:postgresql://127.0.0.1:5432/Statistic"/>-->
-            <!--<property name="openjpa.ConnectionDriverName" value="org.postgresql.Driver"/>-->
-            <!--<property name="openjpa.ConnectionUserName" value="admin"/>-->
-            <!--<property name="openjpa.ConnectionPassword" value="admin"/>-->
-            <!--<property name="openjpa.Log" value="DefaultLevel=TRACE, Tool=INFO"/>-->
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
             <property name="hibernate.hbm2ddl.auto" value="update"/>
             <property name="hibernate.transaction.manager_lookup_class" value="org.hibernate.transaction.JBossTransactionManagerLookup"/>
@@ -25,7 +19,6 @@
             <property name="jboss.entity.manager.factory.jndi.name" value="java:/Manager1Factory"/>
             <property name="hibernate.jdbc.batch_size" value="5"/>
             <property name="log4j.logger.org.hibernate.type" value="DEBUG"/>
-            <!--<property name="jboss.entity.manager.factory.jndi.name" value="java:/xxxEntityManagerFactory" />-->
         </properties>
     </persistence-unit>
 </persistence>

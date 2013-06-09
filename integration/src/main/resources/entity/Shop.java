@@ -8,7 +8,7 @@
 * Данные исходные коды не могут использоваться и быть изменены
 * без официального разрешения компании i-Teco.          
 */
-package beans;
+package entity;
 
 import javax.naming.NamingException;
 import javax.persistence.*;

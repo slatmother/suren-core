@@ -10,11 +10,10 @@
 */
 package parser;
 
-import beans.YmlCatalog;
+import entity.YmlCatalog;
 import org.apache.log4j.Logger;
 
 import javax.xml.bind.JAXBContext;
-import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 import java.io.ByteArrayInputStream;
 import java.io.File;

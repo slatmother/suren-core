@@ -10,7 +10,7 @@
 */
 package parser;
 
-import beans.*;
+import entity.*;
 import junit.framework.TestCase;
 import org.apache.log4j.Logger;
 

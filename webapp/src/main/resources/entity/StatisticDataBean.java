@@ -15,6 +15,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class StatisticDataBean {
     @XmlElement
+    public String shop;
+    @XmlElement
     public String age;
     @XmlElement
     public String sex;

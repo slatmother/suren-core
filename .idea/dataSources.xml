@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" compressed="false" hash="2034787419" />
+  <component name="DataSourceManagerImpl" format="xml" hash="2034787419">
+    <data-source source="LOCAL" name="StatisticDB" product="PostgreSQL" version="9.1.1" jdbc-version="3.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.1 JDBC3 (build 901)" uuid="0da84658-ab37-4eec-b8d6-10205fda1af5">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/Statistic</jdbc-url>
+      <user-name>admin</user-name>
+      <user-password>dfcbdfcedfc7dfc3dfc4</user-password>
+      <schema-pattern>Statistic.shop</schema-pattern>
+      <default-schemas>Statistic.shop</default-schemas>
+      <default-dialect>PostgreSQL</default-dialect>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/lib/postgresql-9.1-901.jdbc3.jar!/</url>
+        </library>
+        <library>
+          <url>file://$PROJECT_DIR$/lib/postgresql-driver-license.txt</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
 </project>
 
